@@ -1,0 +1,5 @@
+﻿Name,Creator,Type,Year,Category,Age,Image,Price,Rating,Bestseller
+Electronics,Dell,Computer,2015,PC Laptop,45,dell.png,500,9.1,TRUE
+Electrnoics,HP,Computer,2018,PC Laptop,30,hp.png,300,8.5,FALSE
+Electronics,Apple,iphone,2019,Toy,2,car.png,50,9.5,FALSE
+Electronics,Fisherprice,watch,2017,Toy,3,doll.png,5000,7.9,TRUE
